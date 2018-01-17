@@ -55,9 +55,15 @@ object Lab1 extends jsy.util.JsyApplication with jsy.lab1.Lab1Like {
 
   /* Exercises */
 
-  def abs(n: Double): Double = ???
+  def abs(n: Double): Double = 
+  {
+    if(n<0) n*(-1) else n
+  }
 
-  def xor(a: Boolean, b: Boolean): Boolean = ???
+  def xor(a: Boolean, b: Boolean): Boolean = 
+  {
+    (a && !b) || (b && !a)
+  }
 
   def repeat(s: String, n: Int): String = ???
 
