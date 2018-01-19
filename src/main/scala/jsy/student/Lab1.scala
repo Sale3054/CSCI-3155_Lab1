@@ -102,7 +102,10 @@ object Lab1 extends jsy.util.JsyApplication with jsy.lab1.Lab1Like {
   def repOk(t: SearchTree): Boolean = {
     def check(t: SearchTree, min: Int, max: Int): Boolean = t match {
       case Empty => true
-      case Node(l, d, r) => ???
+      case Node(l, d, r) => {
+        val n=t.asInstanceOf[Node]
+        if(n.d>=min && n.d<=max) check(n.l, min, n.d) && check(n.r, n.d, max) else false
+      }
     }
     check(t, Int.MinValue, Int.MaxValue)
   }
