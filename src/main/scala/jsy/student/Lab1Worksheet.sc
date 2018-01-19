@@ -8,6 +8,8 @@
 /*
  * Example: Test-driven development of plus
  */
+5
+jsy.student.Lab1.sqrt(4)
 
 // Here we can write expressions to experiment with how we might implement
 // something. The expression is evaluated interactively.

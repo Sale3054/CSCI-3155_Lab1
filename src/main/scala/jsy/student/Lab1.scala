@@ -65,13 +65,26 @@ object Lab1 extends jsy.util.JsyApplication with jsy.lab1.Lab1Like {
     (a && !b) || (b && !a)
   }
 
-  def repeat(s: String, n: Int): String = ???
+  def repeat(s: String, n: Int): String =
+  {
+    if (n>1) repeat(s, n-1)+s else s
+  }
 
-  def sqrtStep(c: Double, xn: Double): Double = ???
+  def sqrtStep(c: Double, xn: Double): Double =
+  {
+    xn-(xn*xn-c)/(2*xn)
+  }
 
-  def sqrtN(c: Double, x0: Double, n: Int): Double = ???
+  def sqrtN(c: Double, x0: Double, n: Int): Double =
+  {
+    if(n!=0) sqrtN(c, sqrtStep(c, x0), n-1) else sqrtStep(c, x0)
+  }
 
-  def sqrtErr(c: Double, x0: Double, epsilon: Double): Double = ???
+  def sqrtErr(c: Double, x0: Double, epsilon: Double): Double =
+  {
+    val err:Double=abs(x0*x0-c)
+    if(err<epsilon) x0 else sqrtErr(c, sqrtStep(c, x0), epsilon)
+  }
 
   def sqrt(c: Double): Double = {
     require(c >= 0)
