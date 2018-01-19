@@ -107,7 +107,17 @@ object Lab1 extends jsy.util.JsyApplication with jsy.lab1.Lab1Like {
     check(t, Int.MinValue, Int.MaxValue)
   }
 
-  def insert(t: SearchTree, n: Int): SearchTree = ???
+  def insert(t: SearchTree, n: Int): SearchTree =
+  {
+    t match
+    {
+      case Empty => Node(Empty, n, Empty)
+      case Node(l, d, r) => {
+        val node=t.asInstanceOf[Node]
+        if (node.d>n) Node(insert(node.l, n), node.d, node.r) else Node(node.l, node.d, insert(node.r, n))
+      }
+    }
+  }
 
   def deleteMin(t: SearchTree): (SearchTree, Int) = {
     require(t != Empty)
