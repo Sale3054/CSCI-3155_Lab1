@@ -125,14 +125,46 @@ object Lab1 extends jsy.util.JsyApplication with jsy.lab1.Lab1Like {
   def deleteMin(t: SearchTree): (SearchTree, Int) = {
     require(t != Empty)
     (t: @unchecked) match {
-      case Node(Empty, d, r) => (r, d)
+      case Node(Empty, d, r) => (Empty, d)
       case Node(l, d, r) =>
         val (l1, m) = deleteMin(l)
-        ???
+        (Node(l1.asInstanceOf[SearchTree], t.asInstanceOf[Node].d, t.asInstanceOf[Node].r), m)
     }
   }
 
-  def delete(t: SearchTree, n: Int): SearchTree = ???
+  def insertmerge(t: SearchTree, n: SearchTree): SearchTree =
+  {
+    t match
+    {
+      case Empty => n
+      case Node(l, d, r) => {
+        val node=t.asInstanceOf[Node]
+        if (node.d>n.asInstanceOf[Node].d) Node(insertmerge(node.l, n), node.d, node.r) else Node(node.l, node.d, insertmerge(node.r, n))
+      }
+    }
+  }
+
+  def mergesubtrees(l: SearchTree, r: SearchTree): SearchTree =
+  {
+    if(l==Empty) r
+    if(r==Empty) l
+
+    //General idea: r is greater than l, so we can merge the entire tree l in r somewhere.
+    insertmerge(r, l)
+  }
+
+  def delete(t: SearchTree, n: Int): SearchTree =
+  {
+    require(t != Empty)
+    t match
+    {
+      case Empty => Empty
+      case Node(Empty, d, Empty) => if(d==n) Empty else t
+      case Node(Empty, d ,r) => if(d == n) r else Node(Empty, d, delete(r, n))
+      case Node(l, d, Empty) => if(d==n) l else Node(delete(l, n), d, Empty)
+      case Node(l, d, r) => if(d==n) mergesubtrees(l, r) else{if(n>d) Node(l, d, delete(r, n)) else Node(delete(l, n), d, r)}
+    }
+  }
 
   /* JavaScripty */
 
