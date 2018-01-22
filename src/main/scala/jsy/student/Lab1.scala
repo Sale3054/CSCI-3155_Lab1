@@ -67,7 +67,8 @@ object Lab1 extends jsy.util.JsyApplication with jsy.lab1.Lab1Like {
 
   def repeat(s: String, n: Int): String =
   {
-    if (n>1) repeat(s, n-1)+s else s
+    require(n>=0)
+    if (n>0) repeat(s, n-1)+s else ""
   }
 
   def sqrtStep(c: Double, xn: Double): Double =
@@ -77,11 +78,13 @@ object Lab1 extends jsy.util.JsyApplication with jsy.lab1.Lab1Like {
 
   def sqrtN(c: Double, x0: Double, n: Int): Double =
   {
-    if(n!=0) sqrtN(c, sqrtStep(c, x0), n-1) else sqrtStep(c, x0)
+    require(n>=0)
+    if(n>0) sqrtN(c, sqrtStep(c, x0), n-1) else x0
   }
 
   def sqrtErr(c: Double, x0: Double, epsilon: Double): Double =
   {
+    require(epsilon>0)
     val err:Double=abs(x0*x0-c)
     if(err<epsilon) x0 else sqrtErr(c, sqrtStep(c, x0), epsilon)
   }
@@ -125,7 +128,8 @@ object Lab1 extends jsy.util.JsyApplication with jsy.lab1.Lab1Like {
   def deleteMin(t: SearchTree): (SearchTree, Int) = {
     require(t != Empty)
     (t: @unchecked) match {
-      case Node(Empty, d, r) => (Empty, d)
+      case Node(Empty, d, Empty) => (Empty, d)
+      case Node(Empty, d, r) => (r, d)
       case Node(l, d, r) =>
         val (l1, m) = deleteMin(l)
         (Node(l1.asInstanceOf[SearchTree], t.asInstanceOf[Node].d, t.asInstanceOf[Node].r), m)

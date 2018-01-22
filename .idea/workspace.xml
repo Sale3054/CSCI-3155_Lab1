@@ -2,8 +2,167 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6d08b24-5fe1-49b4-b91e-0f93586309ec" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$036882a8faa7d7d8493b$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$036882a8faa7d7d8493b.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$036882a8faa7d7d8493b.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$316eec4579084ae3bc13$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$316eec4579084ae3bc13.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$316eec4579084ae3bc13.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$534c7194539ad05ba2f9$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$534c7194539ad05ba2f9.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$534c7194539ad05ba2f9.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5ac935cd2b4fee675d74$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5ac935cd2b4fee675d74.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5ac935cd2b4fee675d74.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6b1d6e16d300be175dd7$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6b1d6e16d300be175dd7.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6b1d6e16d300be175dd7.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9ef8f028f4451ef74e7f$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9ef8f028f4451ef74e7f.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9ef8f028f4451ef74e7f.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a415a43ee717ccb98e62$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a415a43ee717ccb98e62.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a415a43ee717ccb98e62.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b7e17c52e5ecd61efbbc$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b7e17c52e5ecd61efbbc.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b7e17c52e5ecd61efbbc.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e2798f20529d3d6489ad$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e2798f20529d3d6489ad.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e2798f20529d3d6489ad.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ef99bf21ed41526d6525$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ef99bf21ed41526d6525.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ef99bf21ed41526d6525.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f34f86a0e6cb650ab196$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f34f86a0e6cb650ab196.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f34f86a0e6cb650ab196.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/csci-3155_lab1-build/scala_2.12/sbt_1.0/0.1-SNAPSHOT/resolved.xml.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/csci-3155_lab1-build/scala_2.12/sbt_1.0/0.1-SNAPSHOT/resolved.xml.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-csci-3155_lab1-build-compile-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-csci-3155_lab1-build-compile.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-csci-3155_lab1-build-optional.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-csci-3155_lab1-build-plugin.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-csci-3155_lab1-build-pom.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-csci-3155_lab1-build-provided.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-csci-3155_lab1-build-runtime-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-csci-3155_lab1-build-runtime.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-csci-3155_lab1-build-scala-tool.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-csci-3155_lab1-build-test-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-csci-3155_lab1-build-test.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.xsl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/$global/$global/discoveredMainClasses/data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/jsy/student/Lab1.scala" afterPath="$PROJECT_DIR$/src/main/scala/jsy/student/Lab1.scala" />
+      <change beforePath="$PROJECT_DIR$/target/.history" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/edu.colorado.cs/pppl-lab1_2.11/3.1.2/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/resolution-cache/edu.colorado.cs/pppl-lab1_2.11/3.1.2/resolved.xml.properties" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/edu.colorado.cs/pppl-lab1_2.11/3.1.2/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/edu.colorado.cs/pppl-lab1_2.11/3.1.2/resolved.xml.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/org.scala-sbt.temp/temp-module-750703454be73072ce64f1c215ff85550284ae5b/0.13.13/resolved.xml.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/org.scala-sbt.temp/temp-module-750703454be73072ce64f1c215ff85550284ae5b/0.13.13/resolved.xml.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/edu.colorado.cs-pppl-lab1_2.11-compile-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/edu.colorado.cs-pppl-lab1_2.11-compile-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/edu.colorado.cs-pppl-lab1_2.11-compile.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/edu.colorado.cs-pppl-lab1_2.11-compile.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/edu.colorado.cs-pppl-lab1_2.11-docs.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/edu.colorado.cs-pppl-lab1_2.11-docs.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/edu.colorado.cs-pppl-lab1_2.11-optional.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/edu.colorado.cs-pppl-lab1_2.11-optional.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/edu.colorado.cs-pppl-lab1_2.11-plugin.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/edu.colorado.cs-pppl-lab1_2.11-plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/edu.colorado.cs-pppl-lab1_2.11-pom.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/edu.colorado.cs-pppl-lab1_2.11-pom.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/edu.colorado.cs-pppl-lab1_2.11-provided.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/edu.colorado.cs-pppl-lab1_2.11-provided.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/edu.colorado.cs-pppl-lab1_2.11-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/edu.colorado.cs-pppl-lab1_2.11-runtime-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/edu.colorado.cs-pppl-lab1_2.11-runtime.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/edu.colorado.cs-pppl-lab1_2.11-runtime.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/edu.colorado.cs-pppl-lab1_2.11-scala-tool.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/edu.colorado.cs-pppl-lab1_2.11-scala-tool.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/edu.colorado.cs-pppl-lab1_2.11-sources.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/edu.colorado.cs-pppl-lab1_2.11-sources.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/edu.colorado.cs-pppl-lab1_2.11-test-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/edu.colorado.cs-pppl-lab1_2.11-test-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/edu.colorado.cs-pppl-lab1_2.11-test.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/edu.colorado.cs-pppl-lab1_2.11-test.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/org.scala-sbt.temp-temp-module-750703454be73072ce64f1c215ff85550284ae5b-component.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/jsy/student/Lab1$.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/jsy/student/Lab1$.class" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/jsy/student/Lab1.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/jsy/student/Lab1.class" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/edu.colorado.cs/pppl-lab1$sources/3.1.2/resolved.xml.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/edu.colorado.cs/pppl-lab1$sources/3.1.2/resolved.xml.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/edu.colorado.cs/pppl-lab1_2.11/3.1.2/resolved.xml.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/edu.colorado.cs/pppl-lab1_2.11/3.1.2/resolved.xml.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/edu.colorado.cs-pppl-lab1$sources-compile-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/edu.colorado.cs-pppl-lab1$sources-compile.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/edu.colorado.cs-pppl-lab1$sources-optional.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/edu.colorado.cs-pppl-lab1$sources-plugin.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/edu.colorado.cs-pppl-lab1$sources-pom.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/edu.colorado.cs-pppl-lab1$sources-provided.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/edu.colorado.cs-pppl-lab1$sources-runtime-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/edu.colorado.cs-pppl-lab1$sources-runtime.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/edu.colorado.cs-pppl-lab1$sources-scala-tool.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/edu.colorado.cs-pppl-lab1$sources-test-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/edu.colorado.cs-pppl-lab1$sources-test.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/edu.colorado.cs-pppl-lab1_2.11-compile-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/edu.colorado.cs-pppl-lab1_2.11-compile.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/edu.colorado.cs-pppl-lab1_2.11-optional.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/edu.colorado.cs-pppl-lab1_2.11-plugin.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/edu.colorado.cs-pppl-lab1_2.11-pom.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/edu.colorado.cs-pppl-lab1_2.11-provided.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/edu.colorado.cs-pppl-lab1_2.11-runtime-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/edu.colorado.cs-pppl-lab1_2.11-runtime.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/edu.colorado.cs-pppl-lab1_2.11-scala-tool.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/edu.colorado.cs-pppl-lab1_2.11-test-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/edu.colorado.cs-pppl-lab1_2.11-test.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/ivy-report.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/ivy-report.xsl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/$global/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/$global/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/input_dsp" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/input_dsp" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateSbtClassifiers/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/updateSbtClassifiers/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/$global/$global/discoveredMainClasses/data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/copyResources/$global/streams/copy-resources" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/copyResources/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/exportedProducts/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" afterPath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/runMain/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/dependencyClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/exportedProducts/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/fullClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/unmanagedJars/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/$global/$global/definedTestNames/data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/compile/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/compileIncremental/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/compileIncremental/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/copyResources/$global/streams/copy-resources" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/copyResources/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/definedTests/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/dependencyClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/exportedProducts/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/fullClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/incCompileSetup/$global/streams/inc_compile_2.11" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/internalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/loadedTestFrameworks/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/testOnly/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/unmanagedJars/$global/streams/export" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -25,8 +184,18 @@
       <file leaf-file-name="Lab1.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/jsy/student/Lab1.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="173" column="7" lean-forward="true" selection-start-line="173" selection-start-column="7" selection-end-line="173" selection-end-column="7" />
+            <state relative-caret-position="272">
+              <caret line="130" column="34" lean-forward="true" selection-start-line="130" selection-start-column="34" selection-end-line="130" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Lab1Spec.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/jsy/student/Lab1Spec.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="147" column="12" lean-forward="false" selection-start-line="147" selection-start-column="1" selection-end-line="147" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -43,6 +212,11 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>t7</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -68,7 +242,7 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Tests" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -82,6 +256,50 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Tests">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="csci-3155_lab1" type="cbb8eebc:String" user="csci-3155_lab1" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="csci-3155_lab1" type="cbb8eebc:String" user="csci-3155_lab1" />
+              <item name="CSCI-3155_Lab1" type="cbb8eebc:String" user="CSCI-3155_Lab1" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="csci-3155_lab1" type="cbb8eebc:String" user="csci-3155_lab1" />
+              <item name="CSCI-3155_Lab1" type="cbb8eebc:String" user="CSCI-3155_Lab1" />
+              <item name="src/test" type="cbb8eebc:String" user="src/test" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="csci-3155_lab1" type="cbb8eebc:String" user="csci-3155_lab1" />
+              <item name="CSCI-3155_Lab1" type="cbb8eebc:String" user="CSCI-3155_Lab1" />
+              <item name="src/test" type="cbb8eebc:String" user="src/test" />
+              <item name="resources" type="cbb8eebc:String" user="resources" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="csci-3155_lab1" type="cbb8eebc:String" user="csci-3155_lab1" />
+              <item name="CSCI-3155_Lab1" type="cbb8eebc:String" user="CSCI-3155_Lab1" />
+              <item name="src/test" type="cbb8eebc:String" user="src/test" />
+              <item name="scala" type="cbb8eebc:String" user="scala" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="csci-3155_lab1" type="cbb8eebc:String" user="csci-3155_lab1" />
+              <item name="CSCI-3155_Lab1" type="cbb8eebc:String" user="CSCI-3155_Lab1" />
+              <item name="src/test" type="cbb8eebc:String" user="src/test" />
+              <item name="scala" type="cbb8eebc:String" user="scala" />
+              <item name="jsy" type="cbb8eebc:String" user="jsy" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -89,59 +307,12 @@
               <item name="pppl-lab1" type="b2602c69:ProjectViewProjectNode" />
               <item name="CSCI-3155_Lab1" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="pppl-lab1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CSCI-3155_Lab1" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pppl-lab1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CSCI-3155_Lab1" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pppl-lab1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CSCI-3155_Lab1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pppl-lab1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CSCI-3155_Lab1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pppl-lab1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CSCI-3155_Lab1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pppl-lab1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CSCI-3155_Lab1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="jsy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pppl-lab1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CSCI-3155_Lab1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="jsy" type="462c0819:PsiDirectoryNode" />
-              <item name="student" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -208,6 +379,27 @@
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
     </configuration>
+    <configuration name="ScalaTests in 'scala'" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="csci-3155_lab1" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <envs />
+      <setting name="testKind" value="All in package" />
+      <setting name="package" value="" />
+      <buffered bufClass="jsy.student.Lab1JsyTests" />
+      <buffered bufClass="jsy.student.Lab1JsyTests" />
+      <buffered bufClass="jsy.student.Lab1SpecRunner" />
+      <buffered bufClass="jsy.student.Lab1SpecRunner" />
+      <buffered bufClass="jsy.student.Lab1Suite" />
+      <buffered bufClass="jsy.student.Lab1Suite" />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -241,6 +433,11 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="ScalaTest.ScalaTests in 'scala'" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
     <option name="lastUpdateTimestamp" value="1516319006769" />
@@ -313,18 +510,39 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="ScalaTests_in_'scala' - 2018.01.22 at 09h 26m 50s.xml">
+      <configuration name="ScalaTests in 'scala'" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="ScalaTests_in_'scala' - 2018.01.22 at 09h 27m 52s.xml">
+      <configuration name="ScalaTests in 'scala'" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="ScalaTests_in_'scala' - 2018.01.22 at 09h 30m 11s.xml">
+      <configuration name="ScalaTests in 'scala'" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="ScalaTests_in_'scala' - 2018.01.22 at 09h 30m 39s.xml">
+      <configuration name="ScalaTests in 'scala'" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="ScalaTests_in_'scala' - 2018.01.22 at 09h 30m 58s.xml">
+      <configuration name="ScalaTests in 'scala'" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="ScalaTests_in_'scala' - 2018.01.22 at 09h 41m 43s.xml">
+      <configuration name="ScalaTests in 'scala'" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="316" y="49" width="1290" height="788" extended-state="6" />
+    <frame x="316" y="49" width="1928" height="1033" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="sbt" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.313783" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31330472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -339,7 +557,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295838" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -401,6 +618,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/jsy/student/Lab1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/jsy/student/Lab1Worksheet.sc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -409,10 +634,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/jsy/student/Lab1Worksheet.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/jsy/student/Lab1Spec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="147" column="12" lean-forward="false" selection-start-line="147" selection-start-column="1" selection-end-line="147" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/jsy/student/Lab1.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="173" column="7" lean-forward="true" selection-start-line="173" selection-start-column="7" selection-end-line="173" selection-end-column="7" />
+        <state relative-caret-position="272">
+          <caret line="130" column="34" lean-forward="true" selection-start-line="130" selection-start-column="34" selection-end-line="130" selection-end-column="34" />
           <folding />
         </state>
       </provider>

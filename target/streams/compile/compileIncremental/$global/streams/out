@@ -1,15 +1,101 @@
 [0m[[0mdebug[0m] [0m[naha] [0m
 [0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
 [0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
-[0m[[0mdebug[0m] [0m[naha] 	added: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(/home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/lab1/Lab1Like.scala, /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/lab1/Parser.scala, /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/lab1/ast.scala, /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/util/JsyApplication.scala, /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/util/DoWith.scala, /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/util/options.scala, /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/util/DoWithContext.scala, /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/student/Lab1.scala)[0m
 [0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
-[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/lab1/Lab1Like.scala, /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/lab1/Parser.scala, /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/lab1/ast.scala, /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/util/JsyApplication.scala, /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/util/DoWith.scala, /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/util/options.scala, /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/util/DoWithContext.scala, /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/student/Lab1.scala)[0m
 [0m[[0mdebug[0m] [0m[naha] [0m
 [0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
 [0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
-[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/lab1/Lab1Like.scala, /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/lab1/Parser.scala, /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/lab1/ast.scala, /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/util/JsyApplication.scala, /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/util/DoWith.scala, /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/util/options.scala, /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/util/DoWithContext.scala, /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/student/Lab1.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/lab1/Lab1Like.scala, /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/lab1/Parser.scala, /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/lab1/ast.scala, /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/util/JsyApplication.scala, /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/util/DoWith.scala, /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/util/options.scala, /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/util/DoWithContext.scala, /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/student/Lab1.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 8 sources: invalidated sources (8) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 8 Scala sources to /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/target/scala-2.11/classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.13:component from component compiler for Scala 2.11.8[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.13:component from component compiler for Scala 2.11.8[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 58f32cb0, interfacing (CompilerInterface) with Scala compiler version 2.11.8[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-unchecked[0m
+[0m[[0mdebug[0m] [0m	-deprecation[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/opt/icedtea-bin-3.6.0/jre/lib/resources.jar:/opt/icedtea-bin-3.6.0/jre/lib/rt.jar:/opt/icedtea-bin-3.6.0/jre/lib/sunrsasign.jar:/opt/icedtea-bin-3.6.0/jre/lib/jsse.jar:/opt/icedtea-bin-3.6.0/jre/lib/jce.jar:/opt/icedtea-bin-3.6.0/jre/lib/charsets.jar:/opt/icedtea-bin-3.6.0/jre/lib/jfr.jar:/opt/icedtea-bin-3.6.0/jre/classes:/home/mgohde/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/target/scala-2.11/classes:/home/mgohde/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.4.jar:/home/mgohde/.ivy2/cache/org.scalactic/scalactic_2.11/bundles/scalactic_2.11-3.0.0.jar:/home/mgohde/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 6.311114181 s[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/util/DoWith.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/util/DoWith.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/util/DoWith.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/util/DoWith.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/util/DoWith.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, domodify, map, equals, asInstanceOf, DoWith, synchronized, doreturn, $isInstanceOf, notifyAll, isInstanceOf, doput, apply, flatMap, ==, clone, doget, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/lab1/ast.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/lab1/ast.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/lab1/ast.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/lab1/ast.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/lab1/ast.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, unapply, curried, wait, Unary, copy$default$2, $asInstanceOf, n, compose, e1, N, productArity, equals, uop, Bop, asInstanceOf, pretty, Expr, pos, synchronized, $isInstanceOf, isValue, andThen, tupled, canEqual, productPrefix, notifyAll, Plus, isInstanceOf, Minus, Neg, <init>, Uop, apply, prettyNumber, ==, clone, Binary, bop, setPos, $init$, copy$default$3, copy, toString, !=, Times, getClass, copy$default$1, ast, e2, ne, eq, Div, productIterator, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/student/Lab1.scala: Set(Unary, n, e1, N, uop, Bop, asInstanceOf, Expr, Plus, isInstanceOf, Minus, Neg, <init>, Uop, prettyNumber, ==, Binary, bop, !=, Times, ast, e2, ne, Div)[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/lab1/Parser.scala: Set(unapply, Unary, e1, N, uop, Bop, asInstanceOf, Expr, pos, Plus, isInstanceOf, Minus, Neg, <init>, Uop, apply, ==, Binary, bop, setPos, toString, !=, Times, ast, e2, ne, eq, Div)[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/lab1/Lab1Like.scala: Set(asInstanceOf, Expr, isInstanceOf, <init>, ==, toString, ast, eq)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/util/options.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/util/options.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/util/options.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/util/options.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/util/options.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, unapply, curried, anonName, wait, copy$default$2, $asInstanceOf, productArity, equals, process, asInstanceOf, setter, synchronized, usageErr, $isInstanceOf, tupled, canEqual, productPrefix, notifyAll, isInstanceOf, options, <init>, apply, ==, anonDo, clone, default, $init$, Options, nameWidth, SetBool, padRight, copy, header, toString, !=, getClass, copy$default$1, Spec, ne, opts, anonDesc, eq, productIterator, descriptions, ##, finalize, productElement, hashCode, optline, SetInt.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/util/JsyApplication.scala: Set(process, asInstanceOf, isInstanceOf, options, <init>, apply, ==, default, Options, SetBool, toString, Spec, opts, SetInt)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/util/DoWithContext.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/util/DoWithContext.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/util/DoWithContext.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/util/DoWithContext.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/util/DoWithContext.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, map, DoWithContext, equals, asInstanceOf, synchronized, doreturn, $isInstanceOf, notifyAll, isInstanceOf, apply, flatMap, ==, clone, doget, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/util/JsyApplication.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/util/JsyApplication.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/util/JsyApplication.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Including /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/student/Lab1.scala by /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/util/JsyApplication.scala[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/util/JsyApplication.scala, /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/student/Lab1.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/util/JsyApplication.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, anonOption, test, wait, $asInstanceOf, keepGoing, equals, asInstanceOf, synchronized, isJsy, $isInstanceOf, main, notifyAll, debug, flagOptions, isInstanceOf, doFile, ==, clone, maxSteps, testJsy, $init$, toString, !=, JsyApplication, getClass, ne, eq, ##, finalize, hashCode, handle, processFile.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/student/Lab1.scala: Set(asInstanceOf, debug, isInstanceOf, ==, !=, JsyApplication, ne)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/student/Lab1.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/student/Lab1.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/student/Lab1.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/student/Lab1.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/student/Lab1.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, sqrtN, anonOption, test, wait, $asInstanceOf, keepGoing, insert, plus, equals, asInstanceOf, repOk, mergesubtrees, synchronized, isJsy, deleteMin, $isInstanceOf, sqrtErr, main, notifyAll, debug, flagOptions, isInstanceOf, eval, sqrtStep, doFile, sqrt, ==, xor, clone, maxSteps, testJsy, insertmerge, delete, $init$, Lab1, toString, !=, getClass, repeat, abs, ne, eq, ##, finalize, hashCode, handle, processFile.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/lab1/Parser.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/lab1/Parser.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/lab1/Parser.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/lab1/Parser.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/lab1/Parser.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	keyword, accept.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following member ref dependencies of /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/lab1/Parser.scala are invalidated:[0m
+[0m[[0mdebug[0m] [0m[naha] 	/home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/student/Lab1.scala[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/lab1/Lab1Like.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/lab1/Lab1Like.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/lab1/Lab1Like.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Including /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/student/Lab1.scala by /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/lab1/Lab1Like.scala[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/lab1/Lab1Like.scala, /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/student/Lab1.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/lab1/Lab1Like.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, sqrtN, wait, copy$default$2, $asInstanceOf, insert, productArity, plus, equals, asInstanceOf, repOk, synchronized, deleteMin, $isInstanceOf, Node, sqrtErr, canEqual, productPrefix, notifyAll, isInstanceOf, eval, <init>, sqrtStep, sqrt, Empty, l, ==, xor, clone, delete, $init$, SearchTree, copy$default$3, copy, toString, !=, getClass, repeat, copy$default$1, r, abs, Lab1Like, ne, eq, productIterator, ##, finalize, productElement, hashCode, d.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/mgohde/Documents/cs/csci3155/CSCI-3155_Lab1/src/main/scala/jsy/student/Lab1.scala: Set(sqrtN, insert, asInstanceOf, deleteMin, Node, sqrtErr, isInstanceOf, eval, <init>, sqrtStep, Empty, l, ==, delete, SearchTree, !=, repeat, r, abs, Lab1Like, ne, d)[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
