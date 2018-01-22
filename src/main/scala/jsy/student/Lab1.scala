@@ -8,7 +8,7 @@ object Lab1 extends jsy.util.JsyApplication with jsy.lab1.Lab1Like {
 
   /*
    * CSCI 3155: Lab 1
-   * <Your Name>
+   * Sam Leon, Michael Godhe
    *
    * Partner: <Your Partner's Name>
    * Collaborators: <Any Collaborators>
@@ -55,32 +55,30 @@ object Lab1 extends jsy.util.JsyApplication with jsy.lab1.Lab1Like {
 
   /* Exercises */
 
-  def abs(n: Double): Double = 
-  {
-    if(n<0) n*(-1) else n
-  }
+  def abs(n: Double): Double = {if(n < 0) -n else n;}
 
-  def xor(a: Boolean, b: Boolean): Boolean = 
+  def xor(a: Boolean, b: Boolean): Boolean =
   {
-    (a && !b) || (b && !a)
+    if(a == b) false else true;
   }
 
   def repeat(s: String, n: Int): String =
   {
-    require(n>=0)
-    if (n>0) repeat(s, n-1)+s else ""
+    if (n < 0) throw new IllegalArgumentException("Int n must be greater than or equal to 0.");
+    else if (n == 0) "";
+    else s * n;
   }
 
-  def sqrtStep(c: Double, xn: Double): Double =
-  {
-    xn-(xn*xn-c)/(2*xn)
-  }
+  def sqrtStep(c: Double, xn: Double): Double = xn-(xn*xn-c)/(2*xn);
 
   def sqrtN(c: Double, x0: Double, n: Int): Double =
   {
-    require(n>=0)
-    if(n>0) sqrtN(c, sqrtStep(c, x0), n-1) else x0
+    if (n < 0) throw new IllegalArgumentException("Int n must be greater than or equal to 0.");
+    else if (n == 0) x0;
+    else if (n!=0) sqrtN(c, sqrtStep(c, x0), n-1);
+    else sqrtStep(c, x0);
   }
+
 
   def sqrtErr(c: Double, x0: Double, epsilon: Double): Double =
   {
