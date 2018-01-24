@@ -11,5 +11,50 @@
 \maketitle
 
 \section{Overview}
+This document contains my responses to the questions written in Lab1.pdf.
+
+\begin{enumerate}
+\item \textit{Do the survey}
+Done
+
+\item \textit{Give the line where the name is bound and reasoning:}
+\begin{enumerate}
+    \item \textit{Consider the following (code) The use of pi at 4 is bound at which line? The use of pi at 7 is bound at which line?}
+
+    At line 4, the value of pi is bound to the value 3.14159 at line 3. This is so because it is within the scope of circumference()
+
+    At line 7, the value of pi is bound to the value 3.14 at line 1. This is so because the value of pi used is of the global scope.
+
+    \item \textit{Consider the following code. X at 3 is bound at which line? X at 6 is bound at which line? X at 10 is bound at which line? X at 13 is bound at which line?}
+    
+    At line 3, the value of x is equal to whatever was passed ot function f() (ie. it's bound at 2). This is so because the value x used there
+    is within the scope of function f().
+    
+    The value of x at 6 should still be the same (bound at 2), since the match and case will pass the value of x forward.
+    
+    I think that the value of x at 10 should be equal to the value of x passed to the function (ie. it's bound at 2), since it's outside the scope of the inner experession that sets a new value for x.
+    
+    The value of x at 13 is bound at line 1, since it is outside the scope of f().
+\end{enumerate}
+
+\item \textit{Is g well typed?}
+g should be well typed. It always returns a tuple of type tuple, int. The return type of g is formally ((Int, Int), Int). a is an Int, and b is a tuple of two Ints. 
+
+\begin{verbatim}
+g():Int because
+    (b, 1):Int because
+        b: Int because
+            x: Int
+            3: Int
+        1: Int
+    (b, a+2): Int because
+        b: Int because
+            x: Int
+            3: Int
+        a+2: Int because
+            a: Int
+            2: Int
+\end{verbatim}
+\end{enumerate}
 
 \end{document}
